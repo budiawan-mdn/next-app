@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Hello, Next.js!</h1>
+  return <><h1>Hello, Next.js!</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet auctor augue. Sed auctor odio in consequat pellentesque. Ut efficitur turpis at odio ornare viverra. Phasellus euismod, sapien non pulvinar eleifend, arcu libero convallis ante, ac fermentum risus tortor in eros. Mauris placerat lacus eget quam maximus, nec blandit dui malesuada. Aliquam erat volutpat. Quisque aliquam leo tincidunt nunc imperdiet mattis. Curabitur nulla turpis, accumsan non varius ut, commodo at enim. In cursus tincidunt tellus. Quisque nibh quam, porta in est et, lobortis consequat ante. Curabitur leo ligula, viverra ut consectetur id, egestas a odio. Cras porttitor ante eu iaculis pulvinar. Suspendisse eget auctor mauris. Vestibulum tincidunt elementum ex non rutrum. Praesent vehicula vitae orci eget scelerisque.</p></>
 }
